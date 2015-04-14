@@ -1,6 +1,9 @@
 # Hand-Written-Digit-Classification
 Coursework of COMP 3314 Machine Learning, HKU.   
 
+Simplified Version of Kaggle Digit Recognizer Project, Classify handwritten digits using the famous MNIST data  
+  https://www.kaggle.com/c/digit-recognizer
+
 Two-class digit classification problem using  
 1. logistic regression and the k-nearest neighbors (k-NN)  
 2. Neural Network  
