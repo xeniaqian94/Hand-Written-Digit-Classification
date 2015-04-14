@@ -1,4 +1,4 @@
-# Hand-Written-Digit-Classification
+#### Hand-Written-Digit-Classification
 Coursework of COMP 3314 Machine Learning, HKU.   
 
 Simplified Version of Kaggle Digit Recognizer Project, Classify handwritten digits using the famous MNIST data  
